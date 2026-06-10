@@ -1,0 +1,60 @@
+.table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: #5b61b8;
+}
+
+.table td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+.table a {
+    text-decoration: none;
+    color: #333;
+}
+
+.text {
+    padding: 5px;
+    font-size: 18px;
+    color: #10277b;
+}
+.input {
+    width: 70%;
+    padding: 5px;
+    border: 1px solid #213783;
+    border-radius: 4px;
+    box-sizing: border-box;
+     margin-left: 20px;
+     margin-right: 10px;
+}
+.formulario {
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    background-color: #81a6e1;
+    border-radius: 20px;
+    border: 8px solid #213783;
+}
+.fila {
+    display: flex;
+    justify-content: left;
+    margin-left: 80px;
+    margin-right: 180px;
+    margin-bottom: 15px;
+}
+.boton {
+    POSITION: absolute;
+    RIGHT: 350px;
+    top: 120px;
+    width: 160px;
+    height: 120px;
+    padding: 40px;
+    background-color: #ffffff;
+    color: #213783;
+    border: 2px solid #000;
+    font-size: 25px;
+    font-style: italic; 
+}
